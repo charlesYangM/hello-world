@@ -1,4 +1,2 @@
 # hello-world
-
-Hi Everyone！
-
+just hello world
